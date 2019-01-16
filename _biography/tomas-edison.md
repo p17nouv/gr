@@ -9,3 +9,4 @@ tags:
   - Thomas Edison
 
 ---
+{% include_relative bio-edison.md %}
